@@ -4,3 +4,4 @@
 
 [![emgarcia's 42 stats](https://badge42.vercel.app/api/v2/cl38xrnyv003109mjrh2zdgkx/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl38xrnyv003109mjrh2zdgkx/stats?cursusId=21&coalitionId=64" alt="emgarcia's 42 stats" /></a>
